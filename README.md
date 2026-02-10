@@ -133,4 +133,7 @@ MIT License - see [LICENSE](LICENSE) file for details
 
 ## Author
 
-**Spiros Nikoloudakis** - 2026
+**Spiros Nikoloudakis**  
+Email: sp.nikoloudakis@gmail.com  
+GitHub: [@grsprs](https://github.com/grsprs)  
+Year: 2026

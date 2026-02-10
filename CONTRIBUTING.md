@@ -4,7 +4,10 @@ Thank you for considering contributing to this project!
 
 ## Developer
 
-**Spiros Nikoloudakis** - 2026
+**Spiros Nikoloudakis**  
+Email: sp.nikoloudakis@gmail.com  
+GitHub: [@grsprs](https://github.com/grsprs)  
+Year: 2026
 
 ## How to Contribute
 
