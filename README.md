@@ -1,6 +1,14 @@
 # Sudoku Solver
 
-**Developer:** Spiros Nikoloudakis  
+[![Go Version](https://img.shields.io/badge/Go-1.21+-00ADD8?style=flat&logo=go)](https://go.dev/)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![CI](https://github.com/grsprs/sudoku/workflows/Go%20CI/badge.svg)](https://github.com/grsprs/sudoku/actions)
+[![Go Report Card](https://goreportcard.com/badge/github.com/grsprs/sudoku)](https://goreportcard.com/report/github.com/grsprs/sudoku)
+
+> A command-line Sudoku solver using recursive backtracking algorithm
+
+**Author:** Spiros Nikoloudakis ([@grsprs](https://github.com/grsprs))  
+**Contact:** sp.nikoloudakis@gmail.com  
 **Year:** 2026
 
 ## Description
@@ -97,13 +105,15 @@ sudoku/
 ├── go.mod              # Go module definition
 ├── main.go             # Entry point
 ├── LICENSE             # MIT License
+├── NOTICE              # Copyright and attribution
 ├── README.md           # This file
 ├── .gitignore          # Git ignore rules
 ├── .github/
 │   └── workflows/
 │       └── go.yml      # CI/CD pipeline
 ├── docs/
-│   ├── DOCUMENTATION.md    # Detailed documentation
+│   ├── README.md           # Documentation index
+│   ├── DOCUMENTATION.md    # Technical documentation
 │   ├── PROJECT_ANALYSIS.md # Algorithm analysis
 │   ├── CONTRIBUTING.md     # Contribution guidelines
 │   └── CODE_OF_CONDUCT.md  # Code of conduct

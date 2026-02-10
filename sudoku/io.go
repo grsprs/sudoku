@@ -1,3 +1,9 @@
+// Package sudoku implements a recursive backtracking solver for 9x9 Sudoku puzzles.
+//
+// Author: Spiros Nikoloudakis
+// Email: sp.nikoloudakis@gmail.com
+// GitHub: @grsprs
+// Year: 2026
 package sudoku
 
 import (
