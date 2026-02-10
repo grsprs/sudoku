@@ -99,8 +99,14 @@ sudoku/
 ├── LICENSE             # MIT License
 ├── README.md           # This file
 ├── .gitignore          # Git ignore rules
-├── DOCUMENTATION.md    # Detailed documentation
-├── PROJECT_ANALYSIS.md # Algorithm analysis
+├── .github/
+│   └── workflows/
+│       └── go.yml      # CI/CD pipeline
+├── docs/
+│   ├── DOCUMENTATION.md    # Detailed documentation
+│   ├── PROJECT_ANALYSIS.md # Algorithm analysis
+│   ├── CONTRIBUTING.md     # Contribution guidelines
+│   └── CODE_OF_CONDUCT.md  # Code of conduct
 └── sudoku/
     ├── io.go           # Input/output handling
     ├── io_test.go      # Input validation tests
